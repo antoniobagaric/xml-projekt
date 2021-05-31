@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user_list>
+<user>
+	<username>user1</username>
+	<password>12345</password>
+	<ime>Jennifer</ime>
+    <prezime>Aniston</prezime>
+	
+</user>
+<user>
+	<username>user2</username>
+	<password>12345</password>
+	<ime>Maya</ime>
+    <prezime>Berović</prezime>
+</user>
+<user>
+	<username>user3</username>
+	<password>12345</password>
+	<ime>Megan</ime>
+    <prezime>Fox</prezime>
+</user>
+</user_list>
